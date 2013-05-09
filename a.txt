@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 sssssssssssssssssssssss
-=======
+
 sssss
->>>>>>> refs/remotes/origin/branch1
+
 
