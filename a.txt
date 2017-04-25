@@ -17,4 +17,10 @@ test merge again
 
 update from git hub
 
+
 update to git hub again
+
+remove from git hub again
+
+merged.
+
